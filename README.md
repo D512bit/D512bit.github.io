@@ -37,8 +37,8 @@
       th.style8 { vertical-align:bottom; text-align:center; border-bottom:none #000000; border-top:none #000000; border-left:none #000000; border-right:none #000000; font-weight:bold; color:#4472C4; font-family:'Calibri'; font-size:11pt; background-color:#B4C6E7 }
       td.style9 { vertical-align:bottom; text-align:center; border-bottom:none #000000; border-top:none #000000; border-left:none #000000; border-right:none #000000; color:#000000; font-family:'Calibri'; font-size:11pt; background-color:white }
       th.style9 { vertical-align:bottom; text-align:center; border-bottom:none #000000; border-top:none #000000; border-left:none #000000; border-right:none #000000; color:#000000; font-family:'Calibri'; font-size:11pt; background-color:white }
-      td.style10 { vertical-align:bottom; text-align:center; border-bottom:none #000000; border-top:none #000000; border-left:none #000000; border-right:none #000000; text-decoration:underline; color:#0563C1; font-family:'Calibri'; font-size:11pt; background-color:white }
-      th.style10 { vertical-align:bottom; text-align:center; border-bottom:none #000000; border-top:none #000000; border-left:none #000000; border-right:none #000000; text-decoration:underline; color:#0563C1; font-family:'Calibri'; font-size:11pt; background-color:white }
+      td.style10 { vertical-align:middle; text-align:center; border-bottom:none #000000; border-top:none #000000; border-left:none #000000; border-right:none #000000; color:#000000; font-family:'Calibri'; font-size:14pt; background-color:#0070C0 }
+      th.style10 { vertical-align:middle; text-align:center; border-bottom:none #000000; border-top:none #000000; border-left:none #000000; border-right:none #000000; color:#000000; font-family:'Calibri'; font-size:14pt; background-color:#0070C0 }
       table.sheet0 col.col0 { width:132.84444292pt }
       table.sheet0 col.col1 { width:65.06666592pt }
       table.sheet0 col.col2 { width:113.86666536pt }
@@ -258,12 +258,12 @@ body { margin-left: 0.7in; margin-right: 0.7in; margin-top: 0.75in; margin-botto
         <col class="col5">
         <tbody>
           <tr class="row0">
-            <td class="column0 style1 s">Никнейм#0001</td>
-            <td class="column1 style1 s">Репутация</td>
-            <td class="column2 style1 s">Кол-во обращений</td>
-            <td class="column3 style1 s">Сервер</td>
-            <td class="column4 style1 s">AKA</td>
-            <td class="column5 style1 s">Доп. Информация (если требуется)</td>
+            <td class="column0 style10 s">Никнейм#0001</td>
+            <td class="column1 style10 s">Репутация</td>
+            <td class="column2 style10 s">Кол-во обращений</td>
+            <td class="column3 style10 s">Сервер</td>
+            <td class="column4 style10 s">AKA</td>
+            <td class="column5 style10 s">Доп. Информация (если требуется)</td>
           </tr>
           <tr class="row1">
             <td class="column0 style1 s">Abominable_god#2423</td>
@@ -1803,21 +1803,16 @@ body { margin-left: 0.7in; margin-right: 0.7in; margin-top: 0.75in; margin-botto
           </tr>
           <tr class="row193">
             <td class="column0 style7 null"></td>
-            <td class="column1 style7 null"></td>
-            <td class="column2 style7 null"></td>
-            <td class="column3 style7 null"></td>
-            <td class="column4 style7 null"></td>
+            <td class="column1 style8 s style9" colspan="4"><a href="https://forms.gle/tHQy1iHbD3r8aAEN6" title="">Оставьте отзыв о любом игроке, тык!</a></td>
             <td class="column5 style7 null"></td>
           </tr>
           <tr class="row194">
             <td class="column0 style7 null"></td>
-            <td class="column1 style8 s style9" colspan="4"><a href="https://forms.gle/tHQy1iHbD3r8aAEN6" title="">Оставьте отзыв о любом игроке, тык!</a></td>
+            <td class="column1">&nbsp;</td>
+            <td class="column2">&nbsp;</td>
+            <td class="column3">&nbsp;</td>
+            <td class="column4">&nbsp;</td>
             <td class="column5 style7 null"></td>
-          </tr>
-          <tr class="row195">
-            <td class="column0">&nbsp;</td>
-            <td class="column1 style10 s style9" colspan="4"><a href="https://forms.gle/tHQy1iHbD3r8aAEN6" title="">https://forms.gle/tHQy1iHbD3r8aAEN6</a></td>
-            <td class="column5">&nbsp;</td>
           </tr>
         </tbody>
     </table>
